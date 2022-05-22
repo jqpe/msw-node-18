@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "test": "vitest run"
+    "test": "vitest run",
+    "test:workaround": "vitest run --config=with_workaround.config.ts"
   },
   "engineStrict": true,
   "engines": {
