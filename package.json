@@ -12,8 +12,8 @@
     "node": ">=18.x"
   },
   "devDependencies": {
-    "msw": "0.41.0",
-    "node-fetch": "^3.2.4",
+    "msw": "latest",
+    "node-fetch": "3.2.6",
     "vitest": "0.12.4"
   }
 }
